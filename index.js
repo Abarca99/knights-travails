@@ -35,4 +35,5 @@ function knightsPath(start,end){
   }
 }
 
-knightsPath([0,0],[5,2])
+knightsPath([0,0],[5,2]);
+knightsPath([0,5],[2,2])
